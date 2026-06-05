@@ -1,1 +1,4 @@
-"# ST-5 Solution" 
+# ST-5
+
+Student: Nazyrov A.A.
+Group: 3823B1PR4
